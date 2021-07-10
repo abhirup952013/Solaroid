@@ -2,7 +2,7 @@
 
 Product      : Solaroid - A product to assess shading effects of neighbouring buildings on urban roof-top solar panel.
 
-Owner        : Abhirup Bhattacharya (MTech, Centre for Atmospheric Sciences, IIT Delhi)
+Owner         : Abhirup Bhattacharya (MTech, Centre for Atmospheric Sciences, IIT Delhi)
 
 *********************************************************************************************************************************************************************************
 
@@ -226,7 +226,7 @@ And finally, last but not the least this product generates frames of daily shado
 
 	Description :
 
-		This python code evaluates the solar elevation angle and GHI at four major Indian metro cities (Delhi, Mumbai, Kolkata, Chennai) on 2x Solstices and 2x equinoxes in 2019 		against the observed data fetched from CERES website.
+		This python code evaluates the solar elevation angle and GHI at four major Indian metro cities (Delhi, Mumbai, Kolkata, Chennai) on 2x Solstices and 2x equinoxes in 2019 against the observed data fetched from CERES website.
 
 		Note: At line #235 to #237 and #244 to #246 of this code, please insert a valid location of the observed data.
 
