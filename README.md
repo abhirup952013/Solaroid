@@ -1,6 +1,6 @@
 # Solaroid
 
-Product Name : Solaroid
+Product      : Solaroid - A product to assess shading effects of neighbouring buildings on urban roof-top solar panel.
 
 Owner        : Abhirup Bhattacharya (MTech, Centre for Atmospheric Sciences, IIT Delhi)
 
